@@ -545,7 +545,7 @@ Fraud scores should be treated as **risk indicators for investigation**, not as 
 
 ## 👨‍💻 Author
 
-**Vishal kumar**
+**Vishal kumar pandit**
 
 ---
 
